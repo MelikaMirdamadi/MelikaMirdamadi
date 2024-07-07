@@ -1,4 +1,4 @@
-# Hi there, I'm [Melika] 👋
+# Hi there, I'm Melika 👋
 
 I'm a passionate developer and researcher in the field of Natural Language Processing (NLP). I love solving complex problems and creating innovative solutions using Python, Machine Learning, and Data Science.
 
