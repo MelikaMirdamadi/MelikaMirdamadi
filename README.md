@@ -16,10 +16,6 @@ I'm a passionate developer and researcher in the field of Natural Language Proce
 - **Technologies**: Machine Learning, Data Science, NLP
 - **Tools**: TensorFlow, PyTorch, scikit-learn, Pandas, Numpy, Jupyter
 
-## 🔭 Current Projects
-
-- [Project Name](link-to-project) - Brief description of the project.
-- [Project Name](link-to-project) - Brief description of the project.
 
 ## 🌱 Learning
 
@@ -33,13 +29,9 @@ I'm a passionate developer and researcher in the field of Natural Language Proce
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MelikaMirdamadi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaMirdamadi&layout=compact&theme=radical)
 
-## ✍️ Blog Posts
-
-- [Blog Post Title](link-to-blog-post) - A brief description of the blog post.
-- [Blog Post Title](link-to-blog-post) - A brief description of the blog post.
 
 ## 🎉 Fun Facts
 
