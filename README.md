@@ -1,13 +1,12 @@
 # Hi there, I'm Melika 👋
 
-I'm a passionate developer and researcher in the field of Natural Language Processing (NLP). I love solving complex problems and creating innovative solutions using Python, Machine Learning, and Data Science.
+I'm a passionate developer and researcher in the field of Natural Language Processing (NLP). I love solving complex problems and creating innovative solutions using Python, Machine Learning.
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Machine Learning" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/NLP-FF4154?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP" style="margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Data%20Science-4A154B?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science" style="margin: 4px;"/>
 </div>
 
 ## 🛠 Skills
