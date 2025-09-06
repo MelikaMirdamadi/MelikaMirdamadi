@@ -44,11 +44,7 @@ I love solving complex problems, building intelligent systems, and turning innov
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MelikaMirdamadi&theme=tokyonight"/>
 </p>
 
----
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MelikaMirdamadi&theme=tokyo-night)
-
----
 
 ## 📫 Connect With Me  
 
