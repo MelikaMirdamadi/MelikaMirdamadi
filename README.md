@@ -46,9 +46,7 @@ I love solving complex problems, building intelligent systems, and turning innov
 
 ---
 
-## 🐍 Fun Bonus  
-
-![Snake animation](https://github.com/MelikaMirdamadi/MelikaMirdamadi/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MelikaMirdamadi&theme=tokyo-night)
 
 ---
 
