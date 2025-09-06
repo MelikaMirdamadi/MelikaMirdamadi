@@ -44,3 +44,17 @@ Feel free to reach out if you want to collaborate on any projects or just chat a
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MelikaMirdamadi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MelikaMirdamadi&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MelikaMirdamadi&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MelikaMirdamadi&theme=tokyonight"/>
+</p>
+
