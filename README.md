@@ -28,13 +28,11 @@ Continuously advancing expertise in Generative AI, NLP, and Computer Vision to d
 
 ---
 
-## 📚 Currently Exploring  
-
-- 🤖 Building **autonomous AI agents** with LangChain + LangGraph  
-- 🔄 **RPA + AI** workflows to automate repetitive tasks  
-- 🧠 **Knowledge graph-powered chatbots** for enterprise solutions  
-- 📝 Enhancing **conversation summarization** and context retention  
-
+## 📚 Currently Exploring
+🤖 Multi-agent architectures with LangGraph
+🔍 Hybrid RAG systems combining vector search and knowledge graphs
+🔄 AI-augmented RPA pipelines for enterprise automation
+🧠 Memory management and long-context optimization in LLM systems
 ---
 
 ## 📫 Connect With Me  
@@ -44,7 +42,6 @@ Continuously advancing expertise in Generative AI, NLP, and Computer Vision to d
 
 ---
 
-## 🎯 Fun Facts  
 
 - 💬 I love talking about **AI, automation, and future tech trends**  
 - 📖 Always exploring research papers & open-source projects  
