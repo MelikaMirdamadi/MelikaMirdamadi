@@ -1,9 +1,14 @@
 # 👋 Hi there, I'm Melika  
 
-💡 **AI Developer | NLP Enthusiast | RPA & AI Agent Builder**  
+💡 **AI Engineer | LLM Systems | NLP & Computer Vision | AI Agents**  
 
-I’m a passionate developer and researcher in **Natural Language Processing (NLP)**, **AI Automation**, and **Conversational Systems**.  
-I love solving complex problems, building intelligent systems, and turning innovative ideas into reality with Python, Machine Learning, and state-of-the-art AI tools.  
+AI Engineer specializing in LLM-driven conversational systems and AI agents.
+
+Experienced in designing ETL pipelines, integrating large language models, and developing system-level architectures for NLP and voice-enabled AI applications.
+
+Skilled in building RAG frameworks and scalable AI workflows that convert structured and unstructured data into intelligent, interactive systems.
+
+Continuously advancing expertise in Generative AI, NLP, and Computer Vision to deliver practical, high-impact AI solutions
 
 ---
 
