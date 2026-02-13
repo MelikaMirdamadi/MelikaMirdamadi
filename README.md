@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Melika  
-
-💡 **AI Engineer | LLM Systems | NLP & Computer Vision | AI Agents**  
+# 👋 Hi there, I'm Melika   
 
 AI Engineer specializing in LLM-driven conversational systems and AI agents.
 
