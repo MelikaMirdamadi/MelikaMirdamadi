@@ -26,9 +26,6 @@ Continuously advancing expertise in Generative AI, NLP, and Computer Vision to d
   <img src="https://img.shields.io/badge/Chatbots-00BFFF?style=for-the-badge&logo=wechat&logoColor=white"/>
 </p>
 
----
-
----
 
 ## 📫 Connect With Me  
 
