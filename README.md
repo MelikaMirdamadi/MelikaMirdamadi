@@ -28,11 +28,6 @@ Continuously advancing expertise in Generative AI, NLP, and Computer Vision to d
 
 ---
 
-## 📚 Currently Exploring
-🤖 Multi-agent architectures with LangGraph
-🔍 Hybrid RAG systems combining vector search and knowledge graphs
-🔄 AI-augmented RPA pipelines for enterprise automation
-🧠 Memory management and long-context optimization in LLM systems
 ---
 
 ## 📫 Connect With Me  
